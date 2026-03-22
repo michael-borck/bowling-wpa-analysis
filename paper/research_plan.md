@@ -152,7 +152,7 @@ Left: overall concordance rate (% of games where same player wins under both sys
 
 ## Paper Outline
 
-1. **Introduction:** Bowling scoring reform debate; gap in understanding competitive dynamics.
+1. **Introduction:** Bowling scoring reform debate; gap in understanding competitive dynamics. Frame within the broader pattern of sports simplifying scoring for broadcast — badminton's shift to rally scoring (2006), table tennis's reduction to 11-point games (2001), cricket's proliferation of shorter formats. In each case the same tension arises: broadcast pacing vs competitive discrimination. Bowling's finite combinatorics makes it uniquely tractable for formal analysis of what is lost. Note that bowling's most commercially successful broadcast era (ABC Pro Bowlers Tour, 1962-1997, 36 seasons) used traditional scoring exclusively — scoring complexity per se has not historically been a barrier to television appeal.
 2. **Background:** Scoring systems (brief, citing scoring paper); WPA/LI concepts from baseball.
 3. **Model:** Game state representation; WP computation; LI definition; simulation setup.
 4. **Results:**
