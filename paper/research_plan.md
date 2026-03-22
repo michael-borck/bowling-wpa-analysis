@@ -70,7 +70,20 @@ Define a "clutch moment" as any ball where the leverage index exceeds the 90th p
 - Frame distribution of clutch moments (where do they cluster?)
 - "Delivery rate" under pressure — how often do players convert in clutch moments?
 
-### 6. The Broadcast Argument
+### 6. Outcome Concordance: How Often Do the Systems Agree?
+
+Take completed game sequences (simulated or, if available, actual PBA data) and score each under both systems. For head-to-head matches, ask:
+
+- **Overall concordance:** In what percentage of games does the same player win under both systems?
+- **By margin:** Break down by traditional score margin. Blowouts (>30 pts) should show near-100% concordance. Close games (<10 pts) should show significant divergence.
+- **By skill tier:** At recreational level, concordance should be very high. At professional level, lower.
+- **Tournament impact:** Over a season or tournament series, does the *ranking* of players change? Does the *champion* change?
+
+**Why this matters:** A representative of the Asian Bowling Federation has claimed publicly that re-scoring historical games under current-frame rules produces the same winners. This is likely true for most games — but the critical question is whether it holds for *close games between elite players*, which are exactly the games that decide tournaments. Even a 10% outcome divergence in close professional matches would represent a meaningful change in competitive outcomes.
+
+**Prediction:** Overall concordance will be >90%, but concordance in games decided by fewer than 10 traditional-scoring points will drop to 75-85%. This is the key finding — the systems usually agree, but they disagree precisely when it matters most.
+
+### 7. The Broadcast Argument
 
 Connect leverage analysis to the debate about bowling's television appeal:
 - Traditional scoring creates MORE dramatic moments, not fewer
@@ -107,6 +120,9 @@ Heatmap or line plot showing the WPA of a strike at each frame position, for var
 
 ### Figure 6: Leverage Across Skill Tiers
 Faceted plot showing leverage profiles for Recreational, Competitive, and Professional tiers. Shows how the leverage difference between systems is amplified at higher skill levels.
+
+### Figure 7: Outcome Concordance by Score Margin
+Left: overall concordance rate (% of games where same player wins under both systems), by skill tier. Right: concordance as a function of traditional score margin — showing that the systems diverge most in close games.
 
 ## Key References
 
@@ -145,5 +161,6 @@ Faceted plot showing leverage profiles for Recreational, Competitive, and Profes
    - 4.3 Leverage distributions
    - 4.4 Clutch moment analysis
    - 4.5 Skill-tier dependence
-5. **Discussion:** Traditional scoring creates more dramatic competition; implications for the reform debate; the broadcast argument.
+   - 4.6 Outcome concordance — how often do the systems agree on the winner?
+5. **Discussion:** Traditional scoring creates more dramatic competition; outcome concordance shows systems agree on most results but diverge where it matters most; implications for the reform debate; the broadcast argument.
 6. **Conclusion:** Scoring system design is not just about measurement — it shapes the competitive experience.
